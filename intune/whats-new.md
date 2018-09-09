@@ -53,6 +53,7 @@ Learn what’s new each week in Microsoft Intune. You can also find out about [u
 When using iOS per-app VPN profiles, you can choose to use app-layer tunneling (app-proxy) or packet-level tunneling (packet-tunnel). These options are available with the following connection types:
 - Custom VPN
 - Pulse Secure
+
 If you are not sure which value to use, consult your VPN provider's documentation.
 
 #### Delay when iOS software updates are shown on the device <!-- 1949583 -->
